@@ -82,7 +82,4 @@ if  __name__ =="__main__":
                     processcommand(command)
         except Exception as e:
         
-            print("Error ;{0}".format(e))    
-        
-        
-        
+            print("Error ;{0}".format(e)) 
